@@ -1,8 +1,8 @@
 package server
 
 import (
-	"go-comp/cmd/web"
-	"go-comp/internal/handlers"
+	"gothwind/cmd/web"
+	"gothwind/internal/handlers"
 	"net/http"
 
 	"github.com/labstack/echo/v4"

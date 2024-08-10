@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"go-comp/cmd/web/view/components"
-	"go-comp/cmd/web/view/pages"
+	"gothwind/cmd/web/view/components"
+	"gothwind/cmd/web/view/pages"
 	"net/http"
 
 	"github.com/labstack/echo/v4"

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-comp/internal/server"
+	"gothwind/internal/server"
 	"log"
 )
 

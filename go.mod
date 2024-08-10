@@ -1,4 +1,4 @@
-module go-comp
+module gothwind
 
 go 1.22.5
 
